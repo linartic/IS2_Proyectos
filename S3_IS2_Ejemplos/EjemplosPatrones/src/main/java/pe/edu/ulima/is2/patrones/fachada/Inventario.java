@@ -11,10 +11,12 @@ public class Inventario {
 
     }
 
+    /*
     public boolean existeItem(Item item){
         for(Item i : items){
             if(i.getNombre().equals(item.getNombre()) &&
             i.getCantidad())
         }
     }
+    */
 }
